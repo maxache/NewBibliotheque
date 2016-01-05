@@ -1,19 +1,22 @@
 quote{
-  margin-left: 280px;
-  margin-right: 280px;
+  margin-left: 350px;
+  margin-right: 200px;
   text-align: center;
 }
 
 h2{
   font-family: futura;
   text-align: center;
-  margin: -10px;
+  margin: -15px;
   font-weight: 600;
   font-size: 3em;
   font-weight: bold;
-  padding: 2em;
+  padding: 1em;
   color: #ffffff;
-  background-color: #00d9ff;
+  background-color: #8beedd;
+  background-size: contain;
+  position: relative;
+
 
 }
 
@@ -21,36 +24,59 @@ h2{
   font-size: 2em;
   text-align: center;
   color: #ffffff;
-  background-color: #00d9ff;
+  background-color: #f77e5e;
   font-family: futura;
   padding: 2em;
-  margin: -5px;
+  margin: -10px;
 }
 
 h1{
   text-align: justify;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 350px;
+  margin-right: 200px;
 }
 
 h3{
   text-align: center;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 350px;
+  margin-right: 200px;
   font-family: futura;
   font-weight: normal;
   font-size: 2em;
+  margin-top: 70px;
+  color: #f77e5e;
+
 }
 p{
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 350px;
+  margin-right: 200px;
   text-align: justify;
   font-family: helvetica;
   font-weight: lighter;
   text-indent: 50px;
   margin-top: 50px;
   margin-bottom: 50px;
+  font-size: 20px;
+}
 
 
+.menu{
+  font-size: 1.5em;
+  margin-top: -10px;
+  text-align: center;
+  padding: 1em;
+  float: inherit;
+  background-color: white;
 
+}
+
+a{
+  padding: 1em;
+}
+
+
+svg {
+  position: absolute;
+  width: 350px;
+  margin-top: 1317px;
 }
